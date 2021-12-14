@@ -4,9 +4,9 @@
 
 2. **KAIST ID**: 20200510, 20190543, 20170448, 20200379
 
-3. **Email**: @kaist.ac.kr
+3. **Email**: nicolelee2001@kaist.ac.kr, sehoon1106@kaist.ac.kr, rldbs9843@kaist.ac.kr, didgpdnjs369@kaist.ac.kr
 
-4. **Title of your project**:  Coastco
+4. **Title of your project**: Coastco
 
 5. **Link to the video**:
 
@@ -21,9 +21,9 @@ Upload the slides and any material (images, schematics, or any file you could no
 
 If you want to share many material, zip them all in a single downloadable file.
 -PPT file :
--schematics :
+-schematics : ok
 -structure :
--brand logo img :
+-brand logo img : ok
 ```
 
 7. **Acknowledgements**:
@@ -32,7 +32,7 @@ If you want to share many material, zip them all in a single downloadable file.
 List here resources that you used for help/inspiration.
 Mention here if you received any help from anyone outside your team.
 -professor and TAs
--저는 neopixel 할 때 질문 + 아이디어 브레인스토밍 때 도움 준 친구가 있긴 했어요
+-
 
 
 ```
