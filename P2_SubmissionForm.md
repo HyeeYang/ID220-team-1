@@ -20,7 +20,8 @@ Public link to a downloadable video file (e.g., Google drive, Dropbox link)
 Upload the slides and any material (images, schematics, or any file you could not upload via the submission system) and share them with us via a public link.
 
 ```
-link with materials(images, schematics, and etc.) : https://drive.google.com/drive/folders/1qMbmC0aOTDtJlpk0apEukTkumWRWf0w2?usp=sharing
+link with materials(images, schematics, and etc.) :
+https://drive.google.com/drive/folders/1qMbmC0aOTDtJlpk0apEukTkumWRWf0w2?usp=sharing
 
 link of brainstorming documentation :
 https://docs.google.com/document/d/173fc_anQHMrZb6_ZxtrTGpD93C2b1Eel1f_sxj6caWo/edit
